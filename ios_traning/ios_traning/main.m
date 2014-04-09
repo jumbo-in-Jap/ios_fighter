@@ -1,0 +1,18 @@
+//
+//  main.m
+//  ios_traning
+//
+//  Created by 羽田 健太郎 on 2014/04/09.
+//  Copyright (c) 2014年 羽田 健太郎. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+#import "JMBAppDelegate.h"
+
+int main(int argc, char * argv[])
+{
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([JMBAppDelegate class]));
+    }
+}
