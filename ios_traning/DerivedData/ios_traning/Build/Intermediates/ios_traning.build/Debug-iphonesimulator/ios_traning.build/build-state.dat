@@ -1,393 +1,0 @@
-Tios_traning
-v6
-r1
-cCheck dependencies
-cProcessPCH /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch.pch ios_traning/ios_traning-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBSecondViewController.o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBSecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBAppDelegate.o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBFirstViewController.o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBFirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/main.o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning normal i386
-cCopyStringsFile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/en.lproj/InfoPlist.strings ios_traning/en.lproj/InfoPlist.strings
-cCompileStoryboard /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/Base.lproj/Main.storyboard
-cCompileAssetCatalog /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/Images.xcassets
-cProcessInfoPlistFile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/Info.plist /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/ios_traning-Info.plist
-cGenerateDSYMFile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app.dSYM /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning
-cTouch /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
-c0000000053119F8A0000000000000198
-t1393663882
-s408
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
-c00000000531FA22100000000000003B4
-t1394582049
-s948
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
-c00000000531FA230000000000000019E
-t1394582064
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000531FA2350000000000446820
-t1394582069
-s4483104
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000531FA238000000000088D8C0
-t1394582072
-s8968384
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000531FA2430000000001F1DE10
-t1394582083
-s32628240
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
-c00000000531FA27A0000000000000ADC
-t1394582138
-s2780
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch.pch
-t1397036281
-s117120
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBAppDelegate.o
-t1397036281
-s62576
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBFirstViewController.o
-t1397036281
-s47628
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBSecondViewController.o
-t1397036281
-s39188
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/ios_traning.LinkFileList
-c00000000534514F6000000000000032B
-t1397036278
-s811
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/main.o
-t1397036282
-s3612
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/assetcatalog_dependencies.txt
-t1397036285
-s531
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/assetcatalog_generated_info.plist
-t1397036285
-s525
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app
-t1397036288
-s306
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app.dSYM
-t2
-s0
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/Base.lproj/Main.storyboardc
-t1397036288
-s238
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/Info.plist
-t1397036288
-s1127
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/PkgInfo
-t1397036288
-s8
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/en.lproj/InfoPlist.strings
-t1397036282
-s42
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning
-t1397036282
-s23132
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/Base.lproj/Main.storyboard
-c00000000534514F6000000000000321E
-t1397036278
-s12830
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/Images.xcassets
-c000000005345118A00000000000000CC
-t1397035402
-s204
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBAppDelegate.m
-c000000005345118A00000000000007F4
-t1397035402
-s2036
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBFirstViewController.m
-c00000000534512340000000000000307
-t1397035572
-s775
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBSecondViewController.m
-c000000005345118A0000000000000225
-t1397035402
-s549
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/en.lproj/InfoPlist.strings
-c000000005345118A000000000000002D
-t1397035402
-s45
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/ios_traning-Info.plist
-c000000005345118A0000000000000587
-t1397035402
-s1415
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/ios_traning-Prefix.pch
-c000000005345118A0000000000000158
-t1397035402
-s344
-
-N/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/main.m
-c000000005345118A000000000000016B
-t1397035402
-s363
-
-CBuild AST from /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBAppDelegate.m
-r0
-
-CBuild AST from /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBFirstViewController.m
-r0
-
-CBuild AST from /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBSecondViewController.m
-r0
-
-CBuild AST from /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4b3cb0764cf5b841^5af4ce764cf5b841^---0#1#1#--18"Check dependencies36"399A2B90-0745-4B47-AD0C-44CA65D59602-
-
-CCompileAssetCatalog /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/Images.xcassets
-s418729082.504806
-e418729085.605058
-r1
-xCompileAssetCatalog
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/Images.xcassets
-o/* com.apple.actool.compilation-results */
-o/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/LaunchImage-700-568h@2x.png
-o/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/Assets.car
-o/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/assetcatalog_generated_info.plist
-o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CompileAssetCatalog DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app ios_traning/Images.xcassets124"CompileAssetCatalog DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app ios_traning/Images.xcassets0457817a4cf5b841^8ae59a7d4cf5b841^-559"/* com.apple.actool.compilation-results *//Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/LaunchImage-700-568h@2x.png/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/Assets.car/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@97"file:///Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/Images.xcassets/0000000000000000^1381"CompileAssetCatalog DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app ios_traning/Images.xcassets    cd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/Images.xcassets36"E9804B5E-438B-416E-BCEB-51091DEA720F-
-bB6636CE3-B5C1-4229-B2E1-2AAE4456DA25
-
-CCompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBAppDelegate.o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s418729081.641729
-e418729081.974497
-r1
-xCompileC
-xDerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBAppDelegate.o
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBAppDelegate.m
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBAppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBAppDelegate.m244"CompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBAppDelegate.o ios_traning/JMBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler54c4a5794cf5b841^d526fa794cf5b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBAppDelegate.m0000000000000000^4440"CompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBAppDelegate.o ios_traning/JMBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-generated-files.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-own-target-headers.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-all-target-headers.hmap -iquote /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-project-headers.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/DerivedSources/i386 -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/DerivedSources -F/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator -include /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch -MMD -MT dependencies -MF /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBAppDelegate.d --serialize-diagnostics /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBAppDelegate.dia -c /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBAppDelegate.m -o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBAppDelegate.o36"7C0B7729-FCE4-4F22-B474-48A7F67CC456-
-bB6636CE3-B5C1-4229-B2E1-2AAE4456DA25
-
-CCompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBFirstViewController.o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBFirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s418729081.641747
-e418729081.974381
-r1
-xCompileC
-xDerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBFirstViewController.o
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBFirstViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBFirstViewController.m
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBFirstViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBFirstViewController.m260"CompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBFirstViewController.o ios_traning/JMBFirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerebc4a5794cf5b841^2923fa794cf5b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBFirstViewController.m0000000000000000^4488"CompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBFirstViewController.o ios_traning/JMBFirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-generated-files.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-own-target-headers.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-all-target-headers.hmap -iquote /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-project-headers.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/DerivedSources/i386 -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/DerivedSources -F/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator -include /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch -MMD -MT dependencies -MF /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBFirstViewController.d --serialize-diagnostics /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBFirstViewController.dia -c /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBFirstViewController.m -o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBFirstViewController.o36"F1788863-9D08-45CB-81D7-10EF4058A93A-
-bB6636CE3-B5C1-4229-B2E1-2AAE4456DA25
-
-CCompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBSecondViewController.o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBSecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s418729081.641705
-e418729081.974493
-r1
-xCompileC
-xDerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBSecondViewController.o
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBSecondViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBSecondViewController.m
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBSecondViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBSecondViewController.m262"CompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBSecondViewController.o ios_traning/JMBSecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8bc3a5794cf5b841^5473f9794cf5b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBSecondViewController.m0000000000000000^4494"CompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBSecondViewController.o ios_traning/JMBSecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-generated-files.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-own-target-headers.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-all-target-headers.hmap -iquote /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-project-headers.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/DerivedSources/i386 -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/DerivedSources -F/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator -include /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch -MMD -MT dependencies -MF /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBSecondViewController.d --serialize-diagnostics /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBSecondViewController.dia -c /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBSecondViewController.m -o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBSecondViewController.o36"67413DEA-71E6-4B0D-A994-8573E324F4E5-
-bB6636CE3-B5C1-4229-B2E1-2AAE4456DA25
-
-CCompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/main.o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s418729081.976997
-e418729082.057178
-r1
-xCompileC
-xDerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/main.o
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/main.m
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/JMBAppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/main.m224"CompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/main.o ios_traning/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc2fbfa794cf5b841^51a50e7a4cf5b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/main.m0000000000000000^4380"CompileC DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/main.o ios_traning/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-generated-files.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-own-target-headers.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-all-target-headers.hmap -iquote /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-project-headers.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/DerivedSources/i386 -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/DerivedSources -F/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator -include /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch -MMD -MT dependencies -MF /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/main.dia -c /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/main.m -o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/main.o36"E369A31C-AA6C-4383-8B12-9D87159D4BDE-
-bB6636CE3-B5C1-4229-B2E1-2AAE4456DA25
-
-CCompileStoryboard /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/Base.lproj/Main.storyboard
-s418729082.489907
-e418729088.506973
-r1
-xCompileStoryboard
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/Base.lproj/Main.storyboard
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"CompileStoryboard ios_traning/Base.lproj/Main.storyboard56"CompileStoryboard ios_traning/Base.lproj/Main.storyboardcb867d7a4cf5b841^ebc881804cf5b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/Base.lproj/Main.storyboard0000000000000000^944"CompileStoryboard ios_traning/Base.lproj/Main.storyboard    cd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/Base.lproj/Main.storyboardc /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/Base.lproj/Main.storyboard36"1D7AE273-B72B-4635-AD42-0D9683B9A8CC-
-bB6636CE3-B5C1-4229-B2E1-2AAE4456DA25
-
-CCopyStringsFile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/en.lproj/InfoPlist.strings ios_traning/en.lproj/InfoPlist.strings
-s418729082.489640
-e418729082.504614
-r1
-xCopyStringsFile
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/en.lproj/InfoPlist.strings
-xios_traning/en.lproj/InfoPlist.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy ios_traning/en.lproj/InfoPlist.strings158"CopyStringsFile DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/en.lproj/InfoPlist.strings ios_traning/en.lproj/InfoPlist.stringsefab7e7a4cf5b841^0a2f817a4cf5b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/en.lproj/InfoPlist.strings0000000000000000^703"CopyStringsFile DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/en.lproj/InfoPlist.strings ios_traning/en.lproj/InfoPlist.strings    cd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/en.lproj -- ios_traning/en.lproj/InfoPlist.strings36"262CD9E0-25B0-488C-AC08-D7AE382377EE-
-bB6636CE3-B5C1-4229-B2E1-2AAE4456DA25
-
-CGenerateDSYMFile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app.dSYM /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning
-s418729088.526097
-e418729088.595777
-r1
-xGenerateDSYMFile
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app.dSYM
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Generate /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app.dSYM187"GenerateDSYMFile DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app.dSYM DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traningf0be86804cf5b841^c28598804cf5b841^---0#0#1#-19%DVTDocumentLocation2@150"file:///Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app.dSYM0034608bdcffdf42^850"GenerateDSYMFile DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app.dSYM DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning    cd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning -o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app.dSYM36"1D819783-DB61-4ED1-BE4C-BC6804A4AC58-
-bB6636CE3-B5C1-4229-B2E1-2AAE4456DA25
-
-CLd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning normal i386
-s418729082.059303
-e418729082.486128
-r1
-xLd
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning
-xnormal
-xi386
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/ios_traning.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBSecondViewController.o
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBFirstViewController.o
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/JMBAppDelegate.o
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/main.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Link /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning103"Ld DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning normal i38676520f7a4cf5b841^32747c7a4cf5b841^---0#0#1#--1711"Ld DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning normal i386    cd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator -F/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator -filelist /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/ios_traning.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/Objects-normal/i386/ios_traning_dependency_info.dat -o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/ios_traning36"7BB336FB-4099-438E-BF25-B42DEC78E0DD-
-bB6636CE3-B5C1-4229-B2E1-2AAE4456DA25
-
-CProcessInfoPlistFile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/Info.plist /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/ios_traning-Info.plist
-s418729088.509668
-e418729088.525519
-r1
-xProcessInfoPlistFile
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/Info.plist
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/ios_traning-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Process /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/ios_traning-Info.plist143"ProcessInfoPlistFile DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/Info.plist ios_traning/ios_traning-Info.plist2e9183804cf5b841^b58a86804cf5b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/ios_traning-Info.plist0000000000000000^1129"ProcessInfoPlistFile DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/Info.plist ios_traning/ios_traning-Info.plist    cd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/ios_traning-Info.plist -genpkginfo /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/assetcatalog_generated_info.plist -o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app/Info.plist36"61A3CA02-8722-4F8F-8174-CFF6F9B14B3E-
-bB6636CE3-B5C1-4229-B2E1-2AAE4456DA25
-
-CProcessPCH /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch.pch ios_traning/ios_traning-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s418729078.802863
-e418729081.635734
-r1
-xProcessPCH
-x/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch.pch
-xios_traning/ios_traning-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/ios_traning-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile ios_traning/ios_traning-Prefix.pch251"ProcessPCH DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch.pch ios_traning/ios_traning-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2253ce764cf5b841^f78ea2794cf5b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/ios_traning-Prefix.pch0000000000000000^4248"ProcessPCH DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch.pch ios_traning/ios_traning-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-generated-files.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-own-target-headers.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-all-target-headers.hmap -iquote /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/ios_traning-project-headers.hmap -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/DerivedSources/i386 -I/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/ios_traning.build/Debug-iphonesimulator/ios_traning.build/DerivedSources -F/Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch.dia -MMD -MT dependencies -MF /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch.d -c /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/ios_traning/ios_traning-Prefix.pch -o /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Intermediates/PrecompiledHeaders/ios_traning-Prefix-cupmlimerblyxdfwdoumtrviwong/ios_traning-Prefix.pch.pch36"BDCD49F1-F014-4A2D-BC18-7A1BDF05891B-
-bB6636CE3-B5C1-4229-B2E1-2AAE4456DA25
-
-CProcessPCH /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Index/PrecompiledHeaders/ios_traning-Prefix-dhwzpatwygczfseqcjhhcxmjhzgr_ast/ios_traning-Prefix.pch.pch ios_traning/ios_traning-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/hanedakentarou/Documents/xcode/ios-fighter/ios_traning/DerivedData/ios_traning/Build/Products/Debug-iphonesimulator/ios_traning.app
-r0
-
