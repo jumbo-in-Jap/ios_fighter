@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C06200518FE846100058D2A /* JMBNantaraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C06200418FE846100058D2A /* JMBNantaraViewController.m */; };
 		8CED0AF318F5490A00A61FB6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CED0AF218F5490A00A61FB6 /* Foundation.framework */; };
 		8CED0AF518F5490A00A61FB6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CED0AF418F5490A00A61FB6 /* CoreGraphics.framework */; };
 		8CED0AF718F5490A00A61FB6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CED0AF618F5490A00A61FB6 /* UIKit.framework */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8C06200318FE846100058D2A /* JMBNantaraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMBNantaraViewController.h; sourceTree = "<group>"; };
+		8C06200418FE846100058D2A /* JMBNantaraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMBNantaraViewController.m; sourceTree = "<group>"; };
 		8CED0AEF18F5490900A61FB6 /* ios_traning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ios_traning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CED0AF218F5490A00A61FB6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8CED0AF418F5490A00A61FB6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -124,6 +127,8 @@
 				8CED0B0B18F5490A00A61FB6 /* JMBSecondViewController.m */,
 				8CED0B0D18F5490A00A61FB6 /* Images.xcassets */,
 				8CED0AF918F5490A00A61FB6 /* Supporting Files */,
+				8C06200318FE846100058D2A /* JMBNantaraViewController.h */,
+				8C06200418FE846100058D2A /* JMBNantaraViewController.m */,
 			);
 			path = ios_traning;
 			sourceTree = "<group>";
@@ -258,6 +263,7 @@
 				8CED0B0C18F5490A00A61FB6 /* JMBSecondViewController.m in Sources */,
 				8CED0B0918F5490A00A61FB6 /* JMBFirstViewController.m in Sources */,
 				8CED0B0318F5490A00A61FB6 /* JMBAppDelegate.m in Sources */,
+				8C06200518FE846100058D2A /* JMBNantaraViewController.m in Sources */,
 				8CED0AFF18F5490A00A61FB6 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -463,6 +469,7 @@
 				8CED0B2618F5490A00A61FB6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8CED0B2718F5490A00A61FB6 /* Build configuration list for PBXNativeTarget "ios_traningTests" */ = {
 			isa = XCConfigurationList;
@@ -471,6 +478,7 @@
 				8CED0B2918F5490A00A61FB6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

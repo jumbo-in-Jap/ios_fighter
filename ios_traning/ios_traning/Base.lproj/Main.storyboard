@@ -16,8 +16,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" text="First View" textAlignment="center" lineBreakMode="tailTruncation" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="Zhg-ve-WU7">
-                                <rect key="frame" x="20" y="158" width="280" height="42"/>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" misplaced="YES" text="First View" textAlignment="center" lineBreakMode="tailTruncation" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="Zhg-ve-WU7">
+                                <rect key="frame" x="20" y="77" width="280" height="42"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="36"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -31,13 +31,6 @@
                                 <fontDescription key="fontDescription" type="system" size="system"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0lT-1e-CCp">
-                                <rect key="frame" x="137" y="373" width="46" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button">
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                                </state>
-                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
@@ -50,9 +43,6 @@
                         </constraints>
                     </view>
                     <tabBarItem key="tabBarItem" title="First" image="first" id="u1e-5L-l1D"/>
-                    <connections>
-                        <outlet property="firstBtn" destination="0lT-1e-CCp" id="HEV-Jr-e1c"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Qh2-T1-AhA" sceneMemberID="firstResponder"/>
             </objects>
@@ -102,24 +92,24 @@
             </objects>
             <point key="canvasLocation" x="653" y="498"/>
         </scene>
-        <!--View Controller - Item-->
-        <scene sceneID="SxY-EY-u88">
+        <!--Nantara View Controller - Item-->
+        <scene sceneID="UuI-yT-5FK">
             <objects>
-                <viewController id="1ei-1j-1SY" sceneMemberID="viewController">
+                <viewController id="BYU-3I-Jea" customClass="JMBNantaraViewController" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="3G3-ut-w6j"/>
-                        <viewControllerLayoutGuide type="bottom" id="G2p-Gg-QYN"/>
+                        <viewControllerLayoutGuide type="top" id="hFA-64-TNn"/>
+                        <viewControllerLayoutGuide type="bottom" id="TZ0-gR-i95"/>
                     </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="Sg3-2V-2hp">
+                    <view key="view" contentMode="scaleToFill" id="6bb-7p-itC">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" id="Qm5-aW-teh"/>
+                    <tabBarItem key="tabBarItem" title="Item" id="sM7-Oz-I8h"/>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="30l-8b-ZRv" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xIy-ho-ld2" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="665" y="1172"/>
+            <point key="canvasLocation" x="653" y="1196"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="Vex-rW-GRa">
@@ -134,7 +124,7 @@
                     <connections>
                         <segue destination="CZ4-MO-1fc" kind="relationship" relationship="viewControllers" id="SUk-Ux-ee1"/>
                         <segue destination="QUy-BD-bpt" kind="relationship" relationship="viewControllers" id="M8t-EP-wfW"/>
-                        <segue destination="1ei-1j-1SY" kind="relationship" relationship="viewControllers" id="GxX-v2-p1z"/>
+                        <segue destination="BYU-3I-Jea" kind="relationship" relationship="viewControllers" id="M6D-at-I1g"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FNP-y4-bzi" sceneMemberID="firstResponder"/>
