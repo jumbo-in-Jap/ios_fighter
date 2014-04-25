@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8C06200518FE846100058D2A /* JMBNantaraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C06200418FE846100058D2A /* JMBNantaraViewController.m */; };
+		8CE9CC20190A7D4300ADCF46 /* JMBFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CE9CC1B190A7D4300ADCF46 /* JMBFirstViewController.m */; };
+		8CE9CC21190A7D4300ADCF46 /* JMBNantaraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CE9CC1D190A7D4300ADCF46 /* JMBNantaraViewController.m */; };
+		8CE9CC22190A7D4300ADCF46 /* JMBSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CE9CC1F190A7D4300ADCF46 /* JMBSecondViewController.m */; };
+		8CE9CC24190A7D5000ADCF46 /* JMBAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CE9CC23190A7D5000ADCF46 /* JMBAppDelegate.m */; };
 		8CED0AF318F5490A00A61FB6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CED0AF218F5490A00A61FB6 /* Foundation.framework */; };
 		8CED0AF518F5490A00A61FB6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CED0AF418F5490A00A61FB6 /* CoreGraphics.framework */; };
 		8CED0AF718F5490A00A61FB6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CED0AF618F5490A00A61FB6 /* UIKit.framework */; };
 		8CED0AFD18F5490A00A61FB6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8CED0AFB18F5490A00A61FB6 /* InfoPlist.strings */; };
 		8CED0AFF18F5490A00A61FB6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CED0AFE18F5490A00A61FB6 /* main.m */; };
-		8CED0B0318F5490A00A61FB6 /* JMBAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CED0B0218F5490A00A61FB6 /* JMBAppDelegate.m */; };
 		8CED0B0618F5490A00A61FB6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CED0B0418F5490A00A61FB6 /* Main.storyboard */; };
-		8CED0B0918F5490A00A61FB6 /* JMBFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CED0B0818F5490A00A61FB6 /* JMBFirstViewController.m */; };
-		8CED0B0C18F5490A00A61FB6 /* JMBSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CED0B0B18F5490A00A61FB6 /* JMBSecondViewController.m */; };
 		8CED0B0E18F5490A00A61FB6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CED0B0D18F5490A00A61FB6 /* Images.xcassets */; };
 		8CED0B1518F5490A00A61FB6 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CED0B1418F5490A00A61FB6 /* XCTest.framework */; };
 		8CED0B1618F5490A00A61FB6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CED0AF218F5490A00A61FB6 /* Foundation.framework */; };
@@ -36,8 +36,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8C06200318FE846100058D2A /* JMBNantaraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMBNantaraViewController.h; sourceTree = "<group>"; };
-		8C06200418FE846100058D2A /* JMBNantaraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMBNantaraViewController.m; sourceTree = "<group>"; };
+		8CE9CC1A190A7D4300ADCF46 /* JMBFirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMBFirstViewController.h; sourceTree = "<group>"; };
+		8CE9CC1B190A7D4300ADCF46 /* JMBFirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMBFirstViewController.m; sourceTree = "<group>"; };
+		8CE9CC1C190A7D4300ADCF46 /* JMBNantaraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMBNantaraViewController.h; sourceTree = "<group>"; };
+		8CE9CC1D190A7D4300ADCF46 /* JMBNantaraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMBNantaraViewController.m; sourceTree = "<group>"; };
+		8CE9CC1E190A7D4300ADCF46 /* JMBSecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMBSecondViewController.h; sourceTree = "<group>"; };
+		8CE9CC1F190A7D4300ADCF46 /* JMBSecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMBSecondViewController.m; sourceTree = "<group>"; };
+		8CE9CC23190A7D5000ADCF46 /* JMBAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMBAppDelegate.m; sourceTree = "<group>"; };
 		8CED0AEF18F5490900A61FB6 /* ios_traning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ios_traning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CED0AF218F5490A00A61FB6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8CED0AF418F5490A00A61FB6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -47,12 +52,7 @@
 		8CED0AFE18F5490A00A61FB6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8CED0B0018F5490A00A61FB6 /* ios_traning-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ios_traning-Prefix.pch"; sourceTree = "<group>"; };
 		8CED0B0118F5490A00A61FB6 /* JMBAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JMBAppDelegate.h; sourceTree = "<group>"; };
-		8CED0B0218F5490A00A61FB6 /* JMBAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JMBAppDelegate.m; sourceTree = "<group>"; };
 		8CED0B0518F5490A00A61FB6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8CED0B0718F5490A00A61FB6 /* JMBFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JMBFirstViewController.h; sourceTree = "<group>"; };
-		8CED0B0818F5490A00A61FB6 /* JMBFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JMBFirstViewController.m; sourceTree = "<group>"; };
-		8CED0B0A18F5490A00A61FB6 /* JMBSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JMBSecondViewController.h; sourceTree = "<group>"; };
-		8CED0B0B18F5490A00A61FB6 /* JMBSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JMBSecondViewController.m; sourceTree = "<group>"; };
 		8CED0B0D18F5490A00A61FB6 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		8CED0B1318F5490A00A61FB6 /* ios_traningTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ios_traningTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CED0B1418F5490A00A61FB6 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -85,6 +85,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8CE9CC10190A7D1800ADCF46 /* asset */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = asset;
+			sourceTree = "<group>";
+		};
+		8CE9CC19190A7D4300ADCF46 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				8CE9CC1A190A7D4300ADCF46 /* JMBFirstViewController.h */,
+				8CE9CC1B190A7D4300ADCF46 /* JMBFirstViewController.m */,
+				8CE9CC1C190A7D4300ADCF46 /* JMBNantaraViewController.h */,
+				8CE9CC1D190A7D4300ADCF46 /* JMBNantaraViewController.m */,
+				8CE9CC1E190A7D4300ADCF46 /* JMBSecondViewController.h */,
+				8CE9CC1F190A7D4300ADCF46 /* JMBSecondViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		8CED0AE618F5490900A61FB6 = {
 			isa = PBXGroup;
 			children = (
@@ -118,17 +138,13 @@
 		8CED0AF818F5490A00A61FB6 /* ios_traning */ = {
 			isa = PBXGroup;
 			children = (
+				8CE9CC19190A7D4300ADCF46 /* Classes */,
+				8CE9CC10190A7D1800ADCF46 /* asset */,
 				8CED0B0118F5490A00A61FB6 /* JMBAppDelegate.h */,
-				8CED0B0218F5490A00A61FB6 /* JMBAppDelegate.m */,
+				8CE9CC23190A7D5000ADCF46 /* JMBAppDelegate.m */,
 				8CED0B0418F5490A00A61FB6 /* Main.storyboard */,
-				8CED0B0718F5490A00A61FB6 /* JMBFirstViewController.h */,
-				8CED0B0818F5490A00A61FB6 /* JMBFirstViewController.m */,
-				8CED0B0A18F5490A00A61FB6 /* JMBSecondViewController.h */,
-				8CED0B0B18F5490A00A61FB6 /* JMBSecondViewController.m */,
 				8CED0B0D18F5490A00A61FB6 /* Images.xcassets */,
 				8CED0AF918F5490A00A61FB6 /* Supporting Files */,
-				8C06200318FE846100058D2A /* JMBNantaraViewController.h */,
-				8C06200418FE846100058D2A /* JMBNantaraViewController.m */,
 			);
 			path = ios_traning;
 			sourceTree = "<group>";
@@ -260,11 +276,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8CED0B0C18F5490A00A61FB6 /* JMBSecondViewController.m in Sources */,
-				8CED0B0918F5490A00A61FB6 /* JMBFirstViewController.m in Sources */,
-				8CED0B0318F5490A00A61FB6 /* JMBAppDelegate.m in Sources */,
-				8C06200518FE846100058D2A /* JMBNantaraViewController.m in Sources */,
+				8CE9CC22190A7D4300ADCF46 /* JMBSecondViewController.m in Sources */,
+				8CE9CC24190A7D5000ADCF46 /* JMBAppDelegate.m in Sources */,
+				8CE9CC21190A7D4300ADCF46 /* JMBNantaraViewController.m in Sources */,
 				8CED0AFF18F5490A00A61FB6 /* main.m in Sources */,
+				8CE9CC20190A7D4300ADCF46 /* JMBFirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
