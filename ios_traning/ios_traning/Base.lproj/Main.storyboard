@@ -40,10 +40,10 @@
             </objects>
             <point key="canvasLocation" x="1051" y="125"/>
         </scene>
-        <!--View Controller-->
+        <!--First View Controller-->
         <scene sceneID="0PT-4Z-JCY">
             <objects>
-                <viewController id="BrQ-0o-S8M" sceneMemberID="viewController">
+                <viewController id="BrQ-0o-S8M" customClass="JMBFirstViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="mxE-9N-kso"/>
                         <viewControllerLayoutGuide type="bottom" id="QMf-eE-Vle"/>
@@ -51,18 +51,38 @@
                     <view key="view" contentMode="scaleToFill" id="f9G-58-NW6">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wZN-by-DXd">
+                                <rect key="frame" x="139" y="139" width="42" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kzg-jt-Ckt">
+                                <rect key="frame" x="137" y="204" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="2Qb-xq-fsh"/>
+                    <connections>
+                        <outlet property="firstBtn" destination="kzg-jt-Ckt" id="xF7-jV-vaI"/>
+                        <outlet property="firstLbl" destination="wZN-by-DXd" id="BVy-06-3cB"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ubk-bO-KKZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1523" y="113"/>
         </scene>
-        <!--View Controller - Item-->
+        <!--Second View Controller - Item-->
         <scene sceneID="GdG-TP-hz5">
             <objects>
-                <viewController id="sYz-SV-DtS" sceneMemberID="viewController">
+                <viewController id="sYz-SV-DtS" customClass="JMBSecondViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="eEm-fW-avI"/>
                         <viewControllerLayoutGuide type="bottom" id="bOc-IP-EiE"/>
@@ -78,10 +98,10 @@
             </objects>
             <point key="canvasLocation" x="1527" y="853"/>
         </scene>
-        <!--View Controller - Item-->
+        <!--Nantara View Controller - Item-->
         <scene sceneID="sRl-32-Rz2">
             <objects>
-                <viewController id="CtI-kM-T3H" sceneMemberID="viewController">
+                <viewController id="CtI-kM-T3H" customClass="JMBNantaraViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="ppf-q1-hGq"/>
                         <viewControllerLayoutGuide type="bottom" id="9gp-il-L4c"/>
