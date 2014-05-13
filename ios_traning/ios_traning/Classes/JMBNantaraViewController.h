@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "JMBSecondViewController.h"
+// デリゲートを定義
 
-@interface JMBNantaraViewController : UIViewController
+@interface JMBNantaraViewController : UIViewController<jmbSecondDelegate, UIScrollViewDelegate>
 
 @end

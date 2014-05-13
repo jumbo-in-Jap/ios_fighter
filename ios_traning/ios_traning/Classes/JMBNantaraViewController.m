@@ -9,7 +9,7 @@
 #import "JMBNantaraViewController.h"
 
 @interface JMBNantaraViewController ()
-
+@property(nonatomic, strong)IBOutlet UIScrollView* scroll;
 @end
 
 @implementation JMBNantaraViewController
@@ -18,6 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [_scroll setContentSize:CGSizeMake(1000, 1000)];
+    
+    /*
     [self.view setBackgroundColor:[UIColor redColor]];
     
     // 数字
@@ -73,9 +76,10 @@
         default:
             break;
     }
-
+    */
     
 }
+
 
 // 画面色を変えるメソッド
 - (void)setBackColorDaze:(UIColor*)color :(NSString*)str
@@ -89,6 +93,34 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(IBAction)addView:(id)sender
+{
+    JMBSecondViewController* vc = [self.storyboard instantiateViewControllerWithIdentifier:@"app_nan"];
+    //[JMBSecondViewController new];
+    vc.delegate = self;
+    [self.navigationController presentViewController:vc animated:YES completion:nil];
+}
+
+- (void)delegateMethod
+{
+    NSLog(@"delegate");
+}
+
+- (void)scrollViewDidEndDragging:(UIScrollView *)_scrollView
+				  willDecelerate:(BOOL)decelerate
+{
+    
+}
+
+- (void)scrollViewDidEndDecelerating:(UIScrollView *)_scrollView
+{
+
+}
+
+- (void)scrollViewDidEndZooming:(UIScrollView *)_scrollView
+					   withView:(UIView *)view atScale:(float)scale {
+    
+}
 /*
 #pragma mark - Navigation
 

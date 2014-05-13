@@ -17,7 +17,7 @@
                     <connections>
                         <segue destination="e3g-FD-muF" kind="relationship" relationship="viewControllers" id="jCV-7n-ubd"/>
                         <segue destination="sYz-SV-DtS" kind="relationship" relationship="viewControllers" id="tOB-hK-akU"/>
-                        <segue destination="CtI-kM-T3H" kind="relationship" relationship="viewControllers" id="utd-MR-rGx"/>
+                        <segue destination="YPE-pf-nww" kind="relationship" relationship="viewControllers" id="FK3-dA-JYa"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FNP-y4-bzi" sceneMemberID="firstResponder"/>
@@ -82,7 +82,7 @@
         <!--Second View Controller - Item-->
         <scene sceneID="GdG-TP-hz5">
             <objects>
-                <viewController id="sYz-SV-DtS" customClass="JMBSecondViewController" sceneMemberID="viewController">
+                <viewController restorationIdentifier="app_nan" storyboardIdentifier="app_nan" id="sYz-SV-DtS" customClass="JMBSecondViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="eEm-fW-avI"/>
                         <viewControllerLayoutGuide type="bottom" id="bOc-IP-EiE"/>
@@ -90,6 +90,18 @@
                     <view key="view" contentMode="scaleToFill" id="gvZ-pC-uzT">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4Vw-gk-N1n">
+                                <rect key="frame" x="137" y="228" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="pushBtn:" destination="sYz-SV-DtS" eventType="touchUpInside" id="sNp-L1-SnH"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Item" id="Kn7-Ke-qOA"/>
@@ -97,6 +109,22 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9Te-6B-OjY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1527" y="853"/>
+        </scene>
+        <!--Navigation Controller - Item-->
+        <scene sceneID="3wY-pG-AtT">
+            <objects>
+                <navigationController definesPresentationContext="YES" id="YPE-pf-nww" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Item" id="gXb-tG-Z49"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="ngL-aO-JT0">
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="CtI-kM-T3H" kind="relationship" relationship="rootViewController" id="eoN-je-xx0"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="na2-b6-skz" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1027" y="1585"/>
         </scene>
         <!--Nantara View Controller - Item-->
         <scene sceneID="sRl-32-Rz2">
@@ -109,13 +137,36 @@
                     <view key="view" contentMode="scaleToFill" id="Hca-qC-OSo">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4fB-6Y-bKn">
+                                <rect key="frame" x="130" y="446" width="60" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="画面追加">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="addView:" destination="CtI-kM-T3H" eventType="touchUpInside" id="fzE-17-cBL"/>
+                                </connections>
+                            </button>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Vsa-LS-VJE">
+                                <rect key="frame" x="40" y="123" width="240" height="255"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                <connections>
+                                    <outlet property="delegate" destination="CtI-kM-T3H" id="f6x-vP-cwP"/>
+                                </connections>
+                            </scrollView>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Item" id="cej-tV-o1j"/>
+                    <navigationItem key="navigationItem" id="iCv-7y-0y4"/>
+                    <connections>
+                        <outlet property="scroll" destination="Vsa-LS-VJE" id="OLS-vW-DdQ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="DU8-uX-LFT" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1551" y="1605"/>
+            <point key="canvasLocation" x="1527" y="1585"/>
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">

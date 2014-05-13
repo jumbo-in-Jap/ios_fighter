@@ -26,4 +26,19 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void)test
+{
+    // デリゲート先がちゃんと「sampleMethod1」というメソッドを持っているか?
+    if ([self.delegate respondsToSelector:@selector(delegateMethod)]) {
+        // sampleMethod1を呼び出す
+        [self.delegate delegateMethod];
+    }
+    
+}
+
+-(IBAction)pushBtn:(id)sender
+{
+    [self test];
+}
+
 @end

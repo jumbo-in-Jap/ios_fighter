@@ -7,7 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+// デリゲートを定義
+@protocol jmbSecondDelegate <NSObject>
+- (void)delegateMethod;
+@end
 
 @interface JMBSecondViewController : UIViewController
-
+@property (nonatomic, assign) id<jmbSecondDelegate> delegate;
 @end
