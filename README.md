@@ -45,7 +45,12 @@ ios_fighter
 # 20140515
 ちょっと発展の話・・・
 - cocoapod
+- workspace
 - MVC
+- Blocks構文
+ http://cocoadays.blogspot.jp/2013/07/10blocks.html
+ https://github.com/mixi-inc/iOSTraining/wiki/8.1-Blocks
+ 
 
 # 20140521
 そろそろ作ろうiPhoneアプリ
