@@ -26,6 +26,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [self embededBlocksTest];
     // Do any additional setup after loading the view.
 }
 
@@ -38,12 +39,13 @@
 //// 自作Blocks構文の使い方
 //// http://cocoadays.blogspot.jp/2013/07/10blocks.html
 //// https://github.com/mixi-inc/iOSTraining/wiki/8.1-Blocks
-//// 
+////
 // 戻り値 (^名前) (引数)
 typedef void (^MYOperatorEnumerationResultsBlock)(NSUInteger index, NSString *value);
 
 // 引数としてBlocks構文として定義された型の変数を割り当てる
 - (void)countRandomUsingBlock:(MYOperatorEnumerationResultsBlock)enumerationBlock length:(NSUInteger)length {
+    
 	srand(time(nil));
 	for (int i = 0; i < length; i++) {
 		NSString *value = [NSString stringWithFormat:@"%d",rand()];
